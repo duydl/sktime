@@ -10,76 +10,20 @@ and time series segmentation.
 Time Series Segmentation
 ------------------------
 
-.. currentmodule:: sktime.annotation.clasp
+.. currentmodule:: sktime.annotation
 
 .. autosummary::
     :toctree: auto_generated/
     :template: class.rst
 
     ClaSPSegmentation
-
-.. currentmodule:: sktime.annotation.eagglo
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
     EAgglo
-
-.. currentmodule:: sktime.annotation.hmm_learn.gaussian
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
-    GaussianHMM
-
-.. currentmodule:: sktime.annotation.hmm_learn.gmm
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
-    GMMHMM
-
-.. currentmodule:: sktime.annotation.ggs
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
-    GreedyGaussianSegmentation
-
-.. currentmodule:: sktime.annotation.hmm
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
     HMM
-
-.. currentmodule:: sktime.annotation.igts
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
-    InformationGainSegmentation
-
-.. currentmodule:: sktime.annotation.hmm_learn.poisson
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
     PoissonHMM
-
-.. currentmodule:: sktime.annotation.stray
-
-.. autosummary::
-    :toctree: auto_generated/
-    :template: class.rst
-
+    GaussianHMM
+    GMMHMM
+    GreedyGaussianSegmentation
+    InformationGainSegmentation
     STRAY
 
 Adapters
